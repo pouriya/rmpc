@@ -1,0 +1,10 @@
+{application
+,rmpc
+,[{description, "Remote Multi Procedure Call"}
+ ,{vsn, "0.1.0"}
+ ,{registered, []}
+ ,{applications, [kernel, stdlib]}
+ ,{modules, [rmpc]}
+ ,{maintainers, ["pouriya.jahanbakhsh@gmail.com"]}
+ ,{licenses, ["BSD 3-Clause"]}
+ ,{links, [{"GitHub", "https://github.com/pouriya-jahanbakhsh/rmpc"}]}]}.
