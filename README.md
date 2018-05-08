@@ -2,7 +2,7 @@
 An Erlang library for calling multiple `M:F/A` of other nodes in **one** request.
 
 # Example
-Suppose i have node `x` +200K processes:
+Suppose i have node `x` with +200K processes:
 ```sh
 ~/rmpc $ erl -sname x
 Erlang/OTP 19 [erts-8.0] [source] [64-bit] [smp:4:4] [async-threads:10] [hipe] [kernel-poll:false]
