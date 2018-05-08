@@ -102,5 +102,5 @@ Back to the shell `y`:
 ### Author
 `pouriya.jahanbakhsh@gmail.com`
 
-### Hex version
-[]()
+### Hex
+[`18.5.9`](https://hex.pm/packages/rmpc)

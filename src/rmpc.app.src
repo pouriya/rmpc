@@ -1,7 +1,7 @@
 {application
 ,rmpc
 ,[{description, "Remote Multi Procedure Call"}
- ,{vsn, "0.1.0"}
+ ,{vsn, "18.5.9"}
  ,{registered, []}
  ,{applications, [kernel, stdlib]}
  ,{modules, [rmpc]}
