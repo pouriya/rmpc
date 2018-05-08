@@ -1,5 +1,5 @@
 # RMPC (Remote Multi Procedure Call)
-An Erlang library for calling multiple `M:F/A` of other nodes in **one** request.
+An Erlang library for calling multiple `M:F/A`s of other node in **one** request.
 
 # Example
 Suppose i have node `x` with +200K processes:
